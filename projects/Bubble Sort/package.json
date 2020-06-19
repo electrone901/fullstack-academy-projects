@@ -1,0 +1,14 @@
+{
+    "name": "bubble-sort",
+    "version": "1.0.0",
+    "description": "starting with jasmine and Bubble Sort",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jasmine": "^3.5.0"
+    }
+}

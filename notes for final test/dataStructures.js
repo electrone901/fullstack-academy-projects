@@ -1,0 +1,1 @@
+remember that coefficients are ignored so(1 / 2) * n just becomes n, same as 2 * n becomes n

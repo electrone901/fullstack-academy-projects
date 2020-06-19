@@ -1,0 +1,4 @@
+{
+    "framework": "jasmine2",
+    "src_files": ["src/bubblesort.js", "test/bubblesort.spec.js"]
+}
